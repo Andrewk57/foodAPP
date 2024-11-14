@@ -7,6 +7,7 @@ let caloriesLeft = 2400;
 // the environment is set up appropriately
 function addFood()
 {
+   // ask user for input store
    // console.log()
     
 }
